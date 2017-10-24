@@ -16,7 +16,7 @@ Bullet a list of what the application should accomplish along with any details a
   - Selecting images with JavaScript and showing a preview image
 - Additional Functionality:
   - Make site responsive/mobile friendly
-  - Include a <a href=" http://getbootstrap.com/docs/4.0/components/navbar/">navbar with Bootstrap</a> 
+  - Include a <a href="http://getbootstrap.com/docs/4.0/components/navbar/">navbar with Bootstrap</a> 
   - Change preview panel to popover / modal
     - hiding by clicking outside or on a close x button
   - Implement an <a href="http://getbootstrap.com/docs/4.0/components/carousel/">image carousel</a>
