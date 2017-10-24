@@ -10,8 +10,6 @@ Continue building on the photo gallery we demoed how to make in our previous lea
 
 #### Functionalities:
 
-Bullet a list of what the application should accomplish along with any details associated with it.
-
 - Current Functionality:
   - Selecting images with JavaScript and showing a preview image
 - Additional Functionality:
@@ -25,7 +23,7 @@ Bullet a list of what the application should accomplish along with any details a
   - Implement a meme generator
     - Includes caption editor, photo selection from thumbnails, and dynamic text reposition/sizing
 
-#### Example App:
+#### Example Apps:
 
 - http://freefaces.gallery/
 - http://getelliot.com/
