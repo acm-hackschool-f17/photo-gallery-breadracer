@@ -10,7 +10,7 @@ Continue building on the photo gallery we demoed how to make in our previous lea
 - [This Session's Slides](https://docs.google.com/presentation/d/1r2t1w3aaB68EXRH-HV-6MBjW8jVqrWWpF0BGq3U28Z4/edit?usp=sharing)
 - [Modal Popup Live Demo Code](https://github.com/acm-hackschool-f17/session-2-hack)
 - [Github Classroom Repository](https://classroom.github.com/a/f1MuUT0t)
-- [Bootstrap & JS Slides](http://tinyurl.com/hackschool17-session2-slides)
+- [Bootstrap + JS: Review + Code Snippets](https://github.com/acm-hackschool-f17/Resources/blob/master/Learn-Session-2-README.md)
 
 #### Functionalities:
 
