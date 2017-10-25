@@ -23,6 +23,10 @@ Continue building on the photo gallery we demoed how to make in our previous lea
   - Implement a meme generator
     - Includes caption editor, photo selection from thumbnails, and dynamic text reposition/sizing
 
+#### Essential Links:
+- [This Session's Slides](https://docs.google.com/presentation/d/1r2t1w3aaB68EXRH-HV-6MBjW8jVqrWWpF0BGq3U28Z4/edit?usp=sharing)
+- [Bootstrap & JS Slides](http://tinyurl.com/hackschool17-session2-slides)
+
 #### Example Apps:
 
 - http://freefaces.gallery/
