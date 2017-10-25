@@ -41,6 +41,18 @@ Continue building on the photo gallery we demoed how to make in our previous lea
 - How to use jQuery
 - How to dynamically change the style of an HTML element with CSS classes and JS
 
+### Steps to get started:
+1. Install Git at:
+    - Windows: https://git-scm.com/download/win 
+    - Mac: https://git-scm.com/download/mac 
+2. Create a Github account at https://github.com/
+3. Go to https://classroom.github.com/a/f1MuUT0t to create a new project repository in Github
+4. Make a new folder where you want to keep all your code.
+5. Navigate to that folder in Command Prompt or Terminal.
+    - Run `cd <directory-name>`
+6. Run `git clone <git-web-url>` to copy the code down to your laptop.
+7. Start hacking!
+
 #### Tips:
 
 - Brainstorm what views you’ll need and mock out what your application will look like before starting to build it
