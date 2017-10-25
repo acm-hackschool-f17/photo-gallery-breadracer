@@ -1,6 +1,4 @@
-# Hack Session 2 Spec
-
-## Build an interactive photo gallery
+# Hack Session 2 Spec: Build an interactive photo gallery
 
 ### What you’ll be making:
 
