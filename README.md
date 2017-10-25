@@ -8,6 +8,11 @@
 
 Continue building on the photo gallery we demoed how to make in our previous learning session! Add any new features and make the UI look better. Feel free to spin it off into anything you want, whether a photographer’s photo gallery portfolio or a meme generator! Some suggestions of what else you can add are provided below.
 
+#### Essential Links:
+- [This Session's Slides](https://docs.google.com/presentation/d/1r2t1w3aaB68EXRH-HV-6MBjW8jVqrWWpF0BGq3U28Z4/edit?usp=sharing)
+- [Modal Popup Live Demo Code](https://github.com/acm-hackschool-f17/session-2-hack)
+- [Bootstrap & JS Slides](http://tinyurl.com/hackschool17-session2-slides)
+
 #### Functionalities:
 
 - Current Functionality:
@@ -22,11 +27,6 @@ Continue building on the photo gallery we demoed how to make in our previous lea
     - dynamically change image in preview every second
   - Implement a meme generator
     - Includes caption editor, photo selection from thumbnails, and dynamic text reposition/sizing
-
-#### Essential Links:
-- [This Session's Slides](https://docs.google.com/presentation/d/1r2t1w3aaB68EXRH-HV-6MBjW8jVqrWWpF0BGq3U28Z4/edit?usp=sharing)
-- [Modal Popup Live Demo Code](https://github.com/acm-hackschool-f17/session-2-hack)
-- [Bootstrap & JS Slides](http://tinyurl.com/hackschool17-session2-slides)
 
 #### Example Apps:
 
