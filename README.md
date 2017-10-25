@@ -1,4 +1,4 @@
-# Hackschool-Spec-2-README
+# Hack Session 2 Spec
 
 ## Build an interactive photo gallery
 
