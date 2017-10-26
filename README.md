@@ -11,6 +11,7 @@ Continue building on the photo gallery we demoed how to make in our previous lea
 - [Modal Popup Live Demo Code](https://github.com/acm-hackschool-f17/session-2-hack)
 - [Github Classroom Repository](https://classroom.github.com/a/f1MuUT0t)
 - [Bootstrap + JS: Review + Code Snippets](https://github.com/acm-hackschool-f17/Resources/blob/master/Learn-Session-2-README.md)
+- [Mentor Voting Form](http://tinyurl.com/hackschool17-mentors-week4)
 
 #### Functionalities:
 
